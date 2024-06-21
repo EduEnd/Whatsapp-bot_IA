@@ -1,0 +1,14 @@
+2024/06/20-22:09:30.764 3320 Reusing MANIFEST c:\Users\perei\Documents\Whatsapp bot_IA\tokens\sessionName\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/20-22:09:30.782 3320 Recovering log #13
+2024/06/20-22:09:30.800 3320 Reusing old log c:\Users\perei\Documents\Whatsapp bot_IA\tokens\sessionName\Default\Local Storage\leveldb/000013.log 
+2024/06/20-22:12:33.091 2c08 Level-0 table #17: started
+2024/06/20-22:12:33.217 2c08 Level-0 table #17: 17817 bytes OK
+2024/06/20-22:12:33.273 2c08 Delete type=0 #13
+2024/06/20-22:12:34.516 2064 Compacting 4@0 + 0@1 files
+2024/06/20-22:12:34.670 2064 Generated table #18@0: 144 keys, 7979 bytes
+2024/06/20-22:12:34.670 2064 Compacted 4@0 + 0@1 files => 7979 bytes
+2024/06/20-22:12:34.686 2064 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/20-22:12:34.690 2064 Delete type=2 #7
+2024/06/20-22:12:34.690 2064 Delete type=2 #11
+2024/06/20-22:12:34.690 2064 Delete type=2 #14
+2024/06/20-22:12:34.690 2064 Delete type=2 #17
